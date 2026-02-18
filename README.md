@@ -1,5 +1,7 @@
 # complexity-cli
 
+[![npm package](https://img.shields.io/npm/v/complexity-cli.svg)](https://www.npmjs.com/package/complexity-cli)
+
 A CLI tool for managing project complexity and knowledge maps. Perfect for
 tracking what developers need to know to work on your project, with AI-friendly
 workflows.
