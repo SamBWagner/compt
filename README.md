@@ -114,6 +114,10 @@ This outputs a comprehensive prompt that instructs an AI to:
 - Use the `complexity` CLI to maintain consistency
 - Consider all relevant technologies and concepts
 
+> Note: I really recommend using a larger, thinking AI model like Claude Opus or
+> GPT 5.x. This tool's duty isn't the analysis of the project. But, rather the
+> maintenance of a simple markdown document. Bigger model, better time.
+
 ## Features
 
 - **Simple CLI**: Easy-to-use commands for managing complexity documentation
