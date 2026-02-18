@@ -6,18 +6,20 @@ workflows.
 
 ## Installation
 
+```bash
+npm install -g complexity-cli
+```
+
 ### Local Development
 
+If you want to contribute or develop locally:
+
 ```bash
+git clone https://github.com/SamBWagner/complexity-cli.git
+cd complexity-cli
 npm install
 npm run build
 npm link
-```
-
-### From npm (Coming Soon)
-
-```bash
-npm install -g complexity-cli
 ```
 
 ## Usage
